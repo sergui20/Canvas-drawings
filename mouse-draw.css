@@ -1,0 +1,19 @@
+.container {
+	max-width: 800px;
+	margin: auto;
+}
+
+.canvas-container {
+	width: 100%;
+}
+
+canvas {
+	position: relative;
+    left: 50%;
+    margin-left: -350px;
+}
+
+h1 {
+	user-select: none;
+	text-align: center;
+}
